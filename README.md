@@ -12,8 +12,10 @@ A simple **Streamlit application** that uses **Hugging Face Transformers** to an
 ---
 
 ## 📸 Demo Screenshot
-![App Screenshot](screenshot.png)  
-*(Add your running app screenshot here)*
+![App Screenshot](screenshot.png)
+
+## ▶️ Running Example
+![Running App Screenshot](running_app.png)
 
 ---
 
